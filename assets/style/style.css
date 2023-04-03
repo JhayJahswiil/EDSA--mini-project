@@ -94,7 +94,7 @@ body{
 
 /* RIGHT CONTENT */
 .right-content{
-    min-height: 77.5vh;
+    min-height: 84vh;
     width: 250px;
     text-align: center;
     display: flex;
