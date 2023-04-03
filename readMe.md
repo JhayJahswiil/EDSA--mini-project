@@ -1,6 +1,6 @@
 EDSA MINI PROJECT
 
-[Preview Link](https://edsa-mini-project.netlify.app)
+[Preview Link](https://edsa-mini-project.netlify.app "Edsa Mini-Project")
 
 Instructions:
 Create an HTML page with a form that contains a text input field and a submit button.
