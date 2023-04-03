@@ -81,7 +81,7 @@ body{
     padding-left: 30px;
     border-radius: 10px;
     outline: none;
-    border: none;
+    border: 1px solid #78a7f277;
     box-shadow: -1px -1px 23px -5px #a1c4fd;
     -webkit-box-shadow: -1px -1px 23px -5px #a1c4fd;
     -moz-box-shadow: -1px -1px 23px -5px #a1c4fd;
@@ -94,7 +94,7 @@ body{
 
 /* RIGHT CONTENT */
 .right-content{
-    min-height: 84vh;
+    min-height: 85vh;
     width: 250px;
     text-align: center;
     display: flex;
@@ -154,6 +154,10 @@ body{
 
     .result{
         width: 95%;
+    }
+
+    .right-content{
+        min-height: 65vh;
     }
 }
 
