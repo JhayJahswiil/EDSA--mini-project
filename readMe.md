@@ -25,7 +25,7 @@ Use media queries to make the page responsive and mobile-friendly.
 
 This mini project will help you build using HTML, CSS, and JavaScript to create a simple web page that allows users to interact with the content. It will also help you understand how to use event listeners and manipulate the DOM with JavaScript.
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style= "width: 100%; display: flex; align-items: center; justify-content: space-between;">
     <img src="./assets/img/ekiti.png"/>
     <img src="./assets/img/tech4dev.png"/>
     <img src="./assets/img/meta.png"/>
