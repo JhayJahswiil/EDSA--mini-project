@@ -25,6 +25,12 @@ Use media queries to make the page responsive and mobile-friendly.
 
 This mini project will help you build using HTML, CSS, and JavaScript to create a simple web page that allows users to interact with the content. It will also help you understand how to use event listeners and manipulate the DOM with JavaScript.
 
-* Initiative of: ![Ekiti State Government](./assets/img/ekiti.png)
+<div>
+    <img align=top src="./assets/img/ekiti.png"/>
+    <img align=top src="./assets/img/tech4dev.png"/>
+    <img align=top src="./assets/img/meta.png"/>
+<div>
+
+<!-- * Initiative of: ![Ekiti State Government](./assets/img/ekiti.png)
 * Implemented by: ![Tech4dev](./assets/img/tech4dev.png)
-* Sponsored by: ![Meta](./assets/img/meta.png)
+* Sponsored by: ![Meta](./assets/img/meta.png) -->
