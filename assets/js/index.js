@@ -13,9 +13,6 @@ const form = document.querySelector('form');
 form.addEventListener('submit', (e)=>{
     e.preventDefault();
 
-    // EMPTY ALL INPUT FIELDS AFTER SUBMITTING
-    form.reset()
-
     // Initialize the output variable
     let output = '';
 
